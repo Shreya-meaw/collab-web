@@ -58,7 +58,7 @@ const Footer = () => {
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400">
-            © 2025 COLLAB. All rights reserved. | Designed with ❤️ by COLLAB Team
+            © 2025 COLLAB. All rights reserved. | Designed with ❤️ by Waaa Team
           </p>
         </div>
       </div>
