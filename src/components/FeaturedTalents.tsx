@@ -75,20 +75,20 @@ const InfluencerCard: React.FC<InfluencerProps> = ({ name, niche, followers, eng
 const FeaturedTalents = () => {
   const influencers = [
     {
-      name: "Cartoon Ary",
+      name: "Vijendar Chauhan",
       niche: "Animation & Comedy",
       followers: "2.5M",
       engagement: "8.2%",
       bio: "Creating viral animated content that resonates with Gen Z audience. Specializes in brand storytelling through humor.",
-      image: "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=400"
+      image: "/WhatsApp Image 2025-06-13 at 1.19.16 AM.jpeg"
     },
     {
-      name: "Vijendar Chauhan",
+      name:"Cartoon Ary",
       niche: "Business & Finance",
       followers: "1.8M",
       engagement: "6.5%",
       bio: "Business strategy expert helping brands connect with entrepreneurs and business professionals.",
-      image: "https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=400"
+      image: "/WhatsApp Image 2025-06-13 at 1.19.09 AM.jpeg"
     },
     {
       name: "Ankur Warikoo",
