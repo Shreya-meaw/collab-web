@@ -82,7 +82,7 @@ const Hero = () => {
           <div className={`text-sm text-gray-500 transition-all duration-1000 delay-700 ${
             loaded ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
           }`}>
-            Designed by COLLAB Team
+            Designed by Waaa Team
           </div>
         </div>
         
