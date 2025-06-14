@@ -173,15 +173,15 @@ const Contact = () => {
               <div className="space-y-4">
                 <div className="flex items-center space-x-4">
                   <Phone className="w-6 h-6 text-blue-400" />
-                  <span className="text-gray-300">+1 (555) 123-4567</span>
+                  <span className="text-gray-300">+91 9665599136</span>
                 </div>
                 <div className="flex items-center space-x-4">
                   <Mail className="w-6 h-6 text-blue-400" />
-                  <span className="text-gray-300">hello@collab.com</span>
+                  <span className="text-gray-300">contact@collabplatform.com</span>
                 </div>
                 <div className="flex items-center space-x-4">
                   <MapPin className="w-6 h-6 text-blue-400" />
-                  <span className="text-gray-300">123 Business Ave, Tech City, TC 12345</span>
+                  <span className="text-gray-300">Sangli, Maharastra</span>
                 </div>
               </div>
             </div>
